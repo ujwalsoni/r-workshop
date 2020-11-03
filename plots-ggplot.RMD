@@ -1,0 +1,12 @@
+---
+title: "Creating Graphs in R with ggplot 2"
+author: "Ujwal Soni"
+date: "03/11/2020"
+output: html_document
+---
+
+
+#Plot with ggplot2
+
+We are going to make plots in R and it is going to be amazing
+
